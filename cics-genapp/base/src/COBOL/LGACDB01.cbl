@@ -148,7 +148,7 @@
       * Common code                                                    *
       *----------------------------------------------------------------*
       * initialize working storage variables
-           DISPLAY 'impact build 8'.
+           DISPLAY 'impact build 9'.
            INITIALIZE WS-HEADER.
       * set up general variable
            MOVE EIBTRNID TO WS-TRANSID.
